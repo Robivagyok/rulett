@@ -1,0 +1,61 @@
+body{
+    color: red;
+    background-image: url(hatter.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron{
+    margin-top: 30px;
+    
+}
+.responsive {
+    width: 100%;
+    max-width: 500px;
+    height: 400px;
+  }
+
+  
+  p{
+      text-align: justify;
+  }
+  .kepkeret {
+    max-width: 375px;
+    width: auto;
+    float: right;
+    text-align: center;
+    font-size: 75%;
+    padding: 0px 5px 5px;
+    margin-left: 10px;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px red;  
+    border: 2px solid red;
+    font-style: italic;
+  }
+  .kepkeret2 {
+    max-width: 375px;
+    width: auto;
+    float: left;
+    text-align: center;
+    font-size: 75%;
+    padding: 0px 5px 5px;
+    margin-right: 10px;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px red;  
+    border: 2px solid red;
+    font-style: italic;
+  }
+  .container{
+    background-color: black;
+  }
+  header{
+      background-color: black
+  }
+  a:link, a:visited, a:hover, a:active {
+    color: red;
+  }
+  .navbar{
+    color: red;
+  }
